@@ -3,7 +3,7 @@
 ## Training/Validation Split:
 #### I use to 'Randomly' select 80% data for Training and 20% data for Validation/Test purposes. Those 80-20% split should come uniformly from each of the TARGET types, meaning you have to choose exactly 40-10% data from TARGET = 0 and the other 40-10% from TARGET = 1 (but randomly within each target).
 
-## Dataset: The dataset contains the following Columns (for clarity see the 'data.xlsx'):
+## Dataset: The dataset contains the following Columns (for clarity see the 'data.tsv'):
 
     1) Preg = Number of times pregnant.
     2) GLU = Plasma glucose concentration a 2 hours in an oral glucose tolerance test
