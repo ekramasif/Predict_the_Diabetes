@@ -1,7 +1,7 @@
 # Training an Artificial Neural Network with this dataset and Predict the Diabetes.
 
 ## Training/Validation Split:
-#### I use to 'Randomly' select 80% data for Training and 20% data for Validation/Test purposes. Those 80-20% split should come uniformly from each of the TARGET types, meaning you have to choose exactly 40-10% data from TARGET = 0 and the other 40-10% from TARGET = 1 (but randomly within each target).
+#### I use to 'Randomly' select 80% data for Training and 20% data for Validation/Test purposes. Those 80-20% split should come uniformly from each of the TARGET types, meaning I was choosing exactly 40-10% data from TARGET = 0 and the other 40-10% from TARGET = 1 (but randomly within each target).
 
 ## Dataset: The dataset contains the following Columns (for clarity see the 'data.tsv'):
 
@@ -26,3 +26,8 @@
        Metrics: accuracy
 
 
+<p align="center">
+  <a href="https://ekramasif.me">
+    <img align="center" src="https://raw.githubusercontent.com/ekramasif/ekramasif/main/EkramAsif.gif" width="50%">
+  </a>
+</p>
