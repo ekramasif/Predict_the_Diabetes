@@ -1,4 +1,4 @@
-# Training an Artificial Neural Network with this dataset and Predict the Diabetes.
+# Training an Artificial Neural Network with this dataset and Predicting the Diabetes. [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ekramasif/Predict_the_Diabetes/blob/main/LICENSE)
 
 ## Training/Validation Split:
 #### I use to 'Randomly' select 80% data for Training and 20% data for Validation/Test purposes. Those 80-20% split should come uniformly from each of the TARGET types, meaning I was choosing exactly 40-10% data from TARGET = 0 and the other 40-10% from TARGET = 1 (but randomly within each target).
